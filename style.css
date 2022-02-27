@@ -1,0 +1,85 @@
+
+.background{
+    background-color:lavenderblush;
+    border-style: solid;
+}
+.logo{
+    text-align: center;
+}
+.logotext{
+    font: bold;
+}
+.nav a{
+    background-color: purple;
+    color: pink;
+    text-decoration: none;
+    padding: 16px 40px ;
+    text-align: center;
+   }
+.nav a:hover{
+    color: purple;
+    background-color: pink;
+}
+.nav a:active{
+    color: purple;
+    background-color: pink;
+}
+.background2{
+    background-color:lavenderblush;
+    border-style: solid;
+}
+.background2 p{
+    font-size: large; 
+
+}
+.img2 img{
+    display: flexbox;
+    width: 75%;
+    margin: 0%;
+    text-align: center;
+}
+.background3{
+    background-color:lavenderblush;
+    border-style: solid;
+    text-align: center;
+}
+.img3 img{
+    display: flexbox;
+    width: 75%;
+    margin: 0%;
+    text-align: center;
+}
+.img4 img{
+    display: flexbox;
+    width: 75%;
+    margin: 0%;
+    text-align: center;
+}
+.background4{
+    background-color: lavenderblush;
+    border: solid;
+    text-align: center;
+}
+.background5{
+    background-color: lavenderblush;
+    border: solid;
+    text-align: center;
+}
+.link a{
+    text-align: center;
+    background-color: purple;
+    color: pink;
+    text-decoration: none;
+    padding: 12px 16px ;
+}
+.link a:hover{
+    color: purple;
+    background-color: pink; 
+}
+.link p{
+    font: italic;
+}
+
+
+
+
